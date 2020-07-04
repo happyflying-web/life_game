@@ -12,7 +12,7 @@ public class Cell {
     public void setMaxLength(int maxLength) {
         this.maxLength = maxLength;
     }
-//
+
     public int getMaxWidth() {
         return maxWidth;
     }
