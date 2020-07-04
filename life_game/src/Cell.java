@@ -8,7 +8,7 @@ public class Cell {
     public int getMaxLength() {
         return maxLength;
     }
-
+//
     public void setMaxLength(int maxLength) {
         this.maxLength = maxLength;
     }
